@@ -25,5 +25,5 @@ def get_receive(cookie):
         print()
 
 if __name__ == '__main__':
-    cookie = ['skey=@WIDIdkaGU;uin=o2016330070']  #自己修改此处
+    cookie = ['@BoSCTEdvH;uin=o2016330070']  #自己修改此处
     get_receive(cookie)
